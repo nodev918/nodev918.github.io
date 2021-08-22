@@ -19,7 +19,7 @@ export default function Navbar() {
   return (
     <div className="navbar-container">
       <div className="navbar">
-        <div style={{ width: 360 }}>Qpost</div>
+        <div style={{ width: 360 }}>QQpost</div>
         <div 
         style={{ width: 215 }}
         onClick={()=>{sendData()}}
